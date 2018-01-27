@@ -146,5 +146,35 @@ namespace schoolmanagementdcmjain
         {
 
         }
+
+        private void newAdmissionToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void employsToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void setDailyWorkToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void updateStatusToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void depositeToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void expensisToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
